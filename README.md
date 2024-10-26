@@ -40,7 +40,7 @@ Paper can be found
     <th>Energy outputs</th>
   </tr>
   <tr>
-    <td><img src="./0829.gif" width="600" height= "400"/></td>
-    <td><img src="Results.png" width="200" height= "400" /></td>
+    <td><img src="./0829.gif" width="400" height= "400"/></td>
+    <td><img src="Results.png" width="400" height= "400" /></td>
   </tr>
 </table>
