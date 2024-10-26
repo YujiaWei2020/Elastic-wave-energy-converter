@@ -2,8 +2,9 @@
 
 Array analysis of flexible wave energy converter
 
-Paper can be found 
 
+Paper can be found 
+```
 @article{wei2024array,
   title={Array analysis on a seawall type of deformable wave energy converters},
   author={Wei, Yujia and Wang, Chao and Chen, Wenchuang and Huang, Luofeng},
@@ -31,3 +32,4 @@ Paper can be found
   year={2024},
   publisher={Elsevier}
 }
+```
