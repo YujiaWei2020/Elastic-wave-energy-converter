@@ -13,3 +13,12 @@ Paper can be found
   year={2024},
   publisher={Elsevier}
 }
+@article{wang2024hydroelastic,
+  title={Hydroelastic modelling of a deformable wave energy converter including power take-off},
+  author={Wang, Chao and Wei, Yujia and Chen, Wenchuang and Huang, Luofeng},
+  journal={Marine Structures},
+  volume={98},
+  pages={103678},
+  year={2024},
+  publisher={Elsevier}
+}
