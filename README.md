@@ -36,8 +36,8 @@ Paper can be found
 
 <table>
   <tr>
-    <th>Ship motions</th>
-    <th>signals</th>
+    <th>Flexible wave energy converter array</th>
+    <th>Energy outputs</th>
   </tr>
   <tr>
     <td><img src="./0829.gif" width="600" height= "400"/></td>
