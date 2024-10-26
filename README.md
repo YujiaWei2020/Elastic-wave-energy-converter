@@ -22,3 +22,12 @@ Paper can be found
   year={2024},
   publisher={Elsevier}
 }
+@article{wang2024interactive,
+  title={Interactive effects of deformable wave energy converters operating in close proximity},
+  author={Wang, Chao and Wei, Yujia and Chen, Wenchuang and Huang, Luofeng},
+  journal={Energy},
+  volume={308},
+  pages={132905},
+  year={2024},
+  publisher={Elsevier}
+}
