@@ -44,3 +44,8 @@ Paper can be found
     <td><img src="Results.png" width="400" height= "400" /></td>
   </tr>
 </table>
+
+Wave reflection coefficient (kr)
+Wave transmission coefficient (kt)
+Wave dissipation coefficient (kd)
+Energy conversion efficiency (ηe)
